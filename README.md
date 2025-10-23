@@ -1,13 +1,13 @@
-# Olá, me chamo Erick 👋
+# Olá, me chamo Erick Barros e sou desenvolvedor Full-Stack👋
 
 ## Sobre mim 
 
 <table>
   <tr>
     <td>
-      <p>Me chamo Erick Henrique Barros, tenho 22 anos e estou terminando o TADS, Tecnologia em Análise e Desenvolvimento de Sistemas na UFRN - EAJ. Sou uma pessoa calma e extrovertida, gosto de conversar sobre coisas novas e aprender novas formas de usar as tecnologias que ja conheço.</p>
+      <p>Me chamo Erick Henrique Barros, tenho 23 anos e estou concluindo minha graduação em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) na UFRN - EAJ. Sou uma pessoa calma e extrovertida; gosto de conversar sobre novidades e aprender novas formas de usar as tecnologias que gosto.</p>
       <p>
-        Sou desenvolvedor full-stack. Gosto bastante do desenvolvimento backend, mas também aventuro-me bastante no frontend.
+        Atualmente, sou estagiário em desenvolvimento mobile com Flutter. Considero-me um desenvolvedor full-stack, pois, embora minha stack principal hoje seja a mobile, gosto bastante do desenvolvimento backend e também me aventuro no frontend.
       </p>
     </td>
     <td>
